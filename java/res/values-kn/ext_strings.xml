@@ -15,4 +15,5 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="subtype_no_language_bepo">ಆಲ್ಫಾಬೆಟ್ (Bépo)</string>
+    <string name="subtype_hu_ZZ">ಹಂಗೇರಿಯನ್‌ (QWERTY)</string>
 </resources>

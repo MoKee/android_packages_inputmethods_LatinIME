@@ -17,4 +17,5 @@
     <string name="subtype_no_language_bepo">Alfabet (Bépo)</string>
     <string name="subtype_hu_ZZ">Węgierski (QWERTY)</string>
     <string name="keyboard_theme_follow_system">Śledź ustawienia systemowe</string>
+    <string name="prefs_keyboard_height_scale">Skala wysokości klawiatury</string>
 </resources>

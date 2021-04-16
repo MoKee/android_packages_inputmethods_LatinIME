@@ -17,5 +17,5 @@
     <string name="subtype_no_language_bepo">Abeceda (Bépo)</string>
     <string name="subtype_hu_ZZ">Maďarčina (QWERTY)</string>
     <string name="keyboard_theme_follow_system">Podľa systémových nastavení.</string>
-    <string name="prefs_keyboard_height_scale">Výška klávesnice</string>
+    <string name="prefs_keyboard_height_scale">Mierka výšky klávesnice</string>
 </resources>

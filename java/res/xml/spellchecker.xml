@@ -59,7 +59,7 @@
             android:label="@string/subtype_generic"
             android:subtypeLocale="pt_BR"
     />
-    <!-- LineageOS additions -->
+    <!-- MoKee additions -->
     <subtype
             android:label="@string/subtype_generic"
             android:subtypeLocale="bg"

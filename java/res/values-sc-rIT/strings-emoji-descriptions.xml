@@ -17,16 +17,10 @@
 ** limitations under the License.
 */
 -->
-
-<set xmlns:android="http://schemas.android.com/apk/res/android">
-    <objectAnimator
-        android:propertyName="scaleX"
-        android:duration="53"
-        android:valueFrom="1.00"
-        android:valueTo="0.94" />
-    <objectAnimator
-        android:propertyName="scaleY"
-        android:duration="53"
-        android:valueFrom="1.00"
-        android:valueTo="0.94" />
-</set>
+<!--
+    These Emoji symbols are unsupported by TTS.
+    TODO: Remove this file when TTS/TalkBack support these Emoji symbols.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="spoken_emoji_1F5FC">Turre de Tòkyo</string>
+</resources>

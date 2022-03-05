@@ -2,7 +2,7 @@
 <!--
 /*
 **
-** Copyright 2013, The Android Open Source Project
+** Copyright 2015, The Android Open Source Project
 **
 ** Licensed under the Apache License, Version 2.0 (the "License");
 ** you may not use this file except in compliance with the License.
@@ -17,16 +17,6 @@
 ** limitations under the License.
 */
 -->
-
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:state_focused="true"
-        android:drawable="@drawable/ic_emoji_people_activated_holo_dark" />
-    <item
-        android:state_pressed="true"
-        android:drawable="@drawable/ic_emoji_people_activated_holo_dark" />
-    <item
-        android:state_selected="true"
-        android:drawable="@drawable/ic_emoji_people_activated_holo_dark" />
-    <item android:drawable="@drawable/ic_emoji_people_normal_holo_dark" />
-</selector>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="spoken_description_language_switch">Càmbia limba</string>
+</resources>
